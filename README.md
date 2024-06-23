@@ -1,6 +1,6 @@
 # roblox-group-scraper
 Tool for finding ownerless Roblox groups.
-
+#aff
 ![Screenshot](screenshot.png)
 (server: hetzner ex62-nvme (de), proxies: awmproxy vip, threads: 500)
 
